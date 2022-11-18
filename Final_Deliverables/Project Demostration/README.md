@@ -3,4 +3,6 @@
 
 - [x] PROJECT DEMONSTRATION
 
-[PROJECT DEMONSTRATION LINK](http://159.122.183.58:31769/) <br>
+[PROJECT DEMONSTRATION LINK](https://www.canva.com/design/DAFSSUdDwTU/nLhLJXrrwy9u8C6KiOqMgg/watch?utm_content=DAFSSUdDwTU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink/) <br>
+
+[PROJECT WEBSITE LINK](http://169.51.204.215:31967/)
